@@ -1,0 +1,19 @@
+{
+  "name": "string_operations_substrings_repetitions",
+  "version": "1.0.0",
+  "description": "This example shows substrings repetitions count method.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robert-Bobrowicz/String_operations_substrings_repetitions.git"
+  },
+  "author": "MeeRBee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robert-Bobrowicz/String_operations_substrings_repetitions/issues"
+  },
+  "homepage": "https://github.com/Robert-Bobrowicz/String_operations_substrings_repetitions#readme"
+}
